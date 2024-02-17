@@ -5,11 +5,11 @@ import { AuthLayout } from '../layout/AuthLayout'
 
 export const LoginPage = () => {
   return (
-    <AuthLayout title='Login'>
+    <AuthLayout title='Iniciar sesión'>
 
       <form action="">
         <Grid container>
-          
+
           <Grid item xs={12} sx={{ mt: 2 }}>
             <TextField
               label="Correo"
@@ -41,10 +41,10 @@ export const LoginPage = () => {
             </Grid>
 
           </Grid>
-
           <Grid container direction='row' justifyContent='end'>
+            <Typography sx={{mr: 1}}>¿No tienes cuenta?</Typography>
             <Link component={RouterLink} color='inherit' to="/auth/register">
-              Crear una cuenta
+              Registrarse
             </Link>
           </Grid>
 
