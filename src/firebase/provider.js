@@ -7,7 +7,7 @@ export const signInWithGoogle = async () => {
 
     try {
         const result = await signInWithPopup(FirebaseAuth, googleProvider)
-        // const credentials = GoogleAuthProvider.credentialFromResult(result)
+        GoogleAuthProvider.credentialFromResult(result)
         const { displayName, email, photoURL, uid } = result.user
         return {
             ok: true,
