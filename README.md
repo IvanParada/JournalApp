@@ -59,13 +59,13 @@ https://journal-app-ip.netlify.app/
 1. **Clona este repositorio:**
 
     ```bash
-    git clone https://github.com/IvanParada/HeroesApp.git
+    git clone https://github.com/IvanParada/JournalApp.git
     ```
 
 2. **Navega al directorio del proyecto:**
 
     ```bash
-    cd HeroesApp
+    cd JournalApp
     ```
 
 3. **Instala las dependencias utilizando Yarn:**
