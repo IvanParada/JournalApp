@@ -78,12 +78,10 @@ https://journal-app-ip.netlify.app/
 
 ## 🖥️ Demostración<a name="img"></a>
 
-
-![image]()
-![image]()
-![image]()
-![image]()
-
+![Login](https://github.com/IvanParada/JournalApp/assets/118088453/41848ee1-310b-4a23-920d-2757aad6cc21)
+![Register](https://github.com/IvanParada/JournalApp/assets/118088453/f5981bc5-abb6-4b19-91d6-5a63b22841c1)
+![AddNote](https://github.com/IvanParada/JournalApp/assets/118088453/25784d0a-7b07-4948-b39d-f31212a63726)
+![Note](https://github.com/IvanParada/JournalApp/assets/118088453/eaf16bb3-1012-41eb-9d2c-776fc20a1d29)
 
 
 
