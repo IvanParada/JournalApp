@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center"> Heroes App </h1>
+<h1 align="center"> Journal App </h1>
 
 ```bash
 https://journal-app-ip.netlify.app/
@@ -17,7 +17,7 @@ https://journal-app-ip.netlify.app/
 * [Dirigiendo el proyecto](#instrucciones)
 * [Demostración](#img)
 ## 📋 Descripción<a name="descripcion"></a>
-  El siguiente proyecto es una aplicación web donde los usuarios pueden realizar búsquedas de superhéroes utilizando una barra de búsqueda integrada o realizando click sobre alguna de sus imagenes.
+  El siguiente proyecto es una aplicación web que consiste en el registro de notas diarias por parte del usuario.
 
 ## ✔️ Tecnologías usadas<a name="tec-util"></a>
 
@@ -26,7 +26,7 @@ https://journal-app-ip.netlify.app/
 
 * <b>Frameworks y bibliotecas:</b>
   * ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  * ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  * ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) 
         
 * <b>Herramientas de desarrollo:</b>
   * ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -41,8 +41,10 @@ https://journal-app-ip.netlify.app/
 
 ## 💻 Características<a name="caract"></a>
 
-### 1. Búsqueda de superhéroes
-- Permite a los usuarios buscar y visualizar información sobre algunos superhéroes de Marvel y DC.
+### 1. Autenticación de usuario
+- Permite a los usuarios Registrarse e Iniciar sesión ya sea a través de Google u otro proveedor de correos electronicos, a través de Firebase Authentication.
+### 2. Registro de notas
+- El usuario puede registrar notas, la cual contiene un título, el cuerpo de la nota e imágenes, utilizando Firebase Firestore para el almacentamiento del texto y Cloudinary para el almacenamiento de las imágenes. El usuario puede actualizar y eliminar estas notas si lo desea.
 
 ## 🚦 Dirigiendo el proyecto<a name="instrucciones"></a>
 
@@ -77,10 +79,10 @@ https://journal-app-ip.netlify.app/
 ## 🖥️ Demostración<a name="img"></a>
 
 
-![image](https://github.com/IvanParada/HeroesApp/assets/118088453/585affb6-f18b-4039-9162-86bdc3e5128c)
-![image](https://github.com/IvanParada/HeroesApp/assets/118088453/bf6b7328-ffe4-4239-9920-617ffe8c5f88)
-![image](https://github.com/IvanParada/HeroesApp/assets/118088453/200f6218-b3b1-49e7-897b-758aea2cf984)
-![image](https://github.com/IvanParada/HeroesApp/assets/118088453/d0c804a8-2ebc-4d23-a502-e83859e5ed88)
+![image]()
+![image]()
+![image]()
+![image]()
 
 
 
