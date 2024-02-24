@@ -39,10 +39,8 @@ https://journal-app-ip.netlify.app/
   * ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 * <b>APIs y servicios de terceros:</b>
-  * <img src="![image](https://github.com/IvanParada/JournalApp/assets/118088453/5b5a3df8-b08d-4223-b988-2f1245b2a587)
-" alt="MapboxSDK" width="100">
-  * <img src="![image](https://github.com/IvanParada/JournalApp/assets/118088453/8595dfd8-f981-4c05-bf4c-b57a8b4effb5)
-" alt="GoogleMapsSDK" width="100">
+  * <img src="https://github.com/IvanParada/JournalApp/assets/118088453/5b5a3df8-b08d-4223-b988-2f1245b2a587" alt="MapboxSDK" width="100">
+  * <img src="https://github.com/IvanParada/JournalApp/assets/118088453/8595dfd8-f981-4c05-bf4c-b57a8b4effb5" alt="GoogleMapsSDK" width="100">
   
 
     
